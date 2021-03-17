@@ -9,21 +9,15 @@ To enable users to add expenses and deposits to their budget with or without a c
 
 This application has the following features:
 
-1. 
-2.
-3.
-4.
+1. Allows users to enter their deposits/expenses online
+2. Allows users to enter their deposits/expenses offline or without internet, and when they are online entries will be saved in a database
 
 
 ## Screenshots:
 
 The following pictures show the web application's appearance and functionality:
 
-![]()
 
-![]()
-
-![]()
 
 ## Live URL of the deployed application:
 
