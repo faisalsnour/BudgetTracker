@@ -17,6 +17,9 @@ This application has the following features:
 
 The following pictures show the web application's appearance and functionality:
 
+![home page of the application](public/img/home-page.png)
+
+![page shows multiple transactions](public/img/transactions.png)
 
 
 ## Live URL of the deployed application:
